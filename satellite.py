@@ -6,6 +6,8 @@ from platform import dist
 from yum import YumBase, Errors
 from optparse import OptionParser
 
+# testing
+
 # try:
 #     import requests
 # except ImportError:
